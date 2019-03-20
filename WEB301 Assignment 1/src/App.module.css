@@ -1,0 +1,29 @@
+
+.mainContent{
+
+  padding:25px 20px 25px 20px;
+  background-color: #eee;
+}
+.dessertTable
+{
+  margin-bottom: 40px;
+}
+.counter
+{
+  text-align: center;
+  margin-bottom: 55px;
+  padding: 55px;
+}
+.counterInput input{
+  font-size: 55px;
+  text-align: center;
+}
+body{
+  background-color: red;
+}
+.button{
+  top: 10px;
+}
+.InputContent{
+  padding-left: 35px;
+}
